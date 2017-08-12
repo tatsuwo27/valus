@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Package1_1","characterIndex":0,"characterName":"Package1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"バリ","nickname":"VALU初心者の","note":"","profile":""},
+{"id":2,"battlerName":"Package1_2","characterIndex":1,"characterName":"Package1","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Package1","traits":[],"initialLevel":80,"maxLevel":99,"name":"ベル","nickname":"VALU時価総額上位の","note":"","profile":""},
+{"id":3,"battlerName":"Package2_5","characterIndex":4,"characterName":"Package2","classId":4,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Package2","traits":[],"initialLevel":99,"maxLevel":99,"name":"キング","nickname":"VALUの中の人","note":"","profile":""},
+{"id":4,"battlerName":"Package1_8","characterIndex":7,"characterName":"Package1","classId":2,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Package1","traits":[],"initialLevel":65,"maxLevel":99,"name":"マルコ","nickname":"VALU相場師","note":"","profile":""},
+{"id":5,"battlerName":"Package1_6","characterIndex":5,"characterName":"Package1","classId":12,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Package1","traits":[],"initialLevel":15,"maxLevel":99,"name":"フェルト","nickname":"VALU公開直後の","note":"","profile":""},
+{"id":6,"battlerName":"Package1_7","characterIndex":6,"characterName":"Package1","classId":3,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ゲイル","nickname":"VALU界の重鎮","note":"","profile":""},
+{"id":7,"battlerName":"Package2_4","characterIndex":3,"characterName":"Package2","classId":13,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Package2","traits":[],"initialLevel":30,"maxLevel":99,"name":"ハレス","nickname":"方向性を誤った","note":"","profile":""},
+{"id":8,"battlerName":"Package2_7","characterIndex":6,"characterName":"Package2","classId":5,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Package2","traits":[],"initialLevel":50,"maxLevel":99,"name":"ミリア","nickname":"とにかく明るい","note":"","profile":""}
+]
